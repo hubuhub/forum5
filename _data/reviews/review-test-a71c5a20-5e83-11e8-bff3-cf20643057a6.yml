@@ -1,0 +1,8 @@
+_id: a71c5a20-5e83-11e8-bff3-cf20643057a6
+name: test
+comment: 'Очень советую посмотреть test <a href="http://test.ru">тут</a>. Сам покупал.'
+product: test
+date: '2018-05-23T12:20:17.537Z'
+timestamp: 1527078017
+tags:
+  - comment-subscription
